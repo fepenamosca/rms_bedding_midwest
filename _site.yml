@@ -1,0 +1,15 @@
+name: "Relationships between method of processing and presence of mastitis and non-mastitis pathogens in ready-to-use recycled manure solids bedding on Midwest dairy farms"
+header-includes: 
+  \usepackage{graphicx}
+  \usepackage{float}
+output_dir: "."
+navbar:
+  title: "Home"
+  right:
+    - text: "Code and output"
+      href: rms_bedding_midwest_analysis.html
+    - icon: fa-github fa-lg
+      href: http://github.com/fepenamosca/
+output:  
+   html_document:
+    theme: flatly
