@@ -9,7 +9,7 @@ title: "Relationships between method used for bedding processing and presence of
 
 </div>
 
-<font size="4">
+<font size="5">
 
 This study investigated the associations between recycled manure solids
 (RMS) processing systems, used alone or in combination, on the presence
